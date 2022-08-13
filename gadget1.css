@@ -1,0 +1,87 @@
+img.picture{
+    width:450%;
+    height:100%;
+}
+ 
+.head h1{
+    font-size: 50px;
+    text-align: center;
+    
+}
+#about h1{
+    margin-top: 20px;
+}
+.about h2 {
+    text-align: left;   
+}
+.name{
+    margin-bottom:25px;
+}
+/* Headings */
+.heading{
+    font-size: 1.3rem;
+}
+
+/* Gallery Images */
+.gallery img{
+    width: 300px;
+    height: 360px;
+}
+
+/* About Section */
+.about{
+    flex-direction: column;
+}
+
+
+.about img{
+    width: 200px;
+    height: 150px;
+    padding: 0px 15px;
+}
+/* Message box */
+#message{
+    width: 40%;
+    height: 200px;
+}
+
+/* Boxes */
+.box{
+    height: 150px;
+    width: 250px;
+    
+    border-radius: 20px;
+    margin: 10px;
+    padding: 10px;
+}
+.box h2{
+    color: yellowgreen;
+    font-size: 1.2rem;
+    margin-bottom: 20px;
+}
+.box p{
+    color: white;
+    font-size: .8rem;
+}
+
+.upper-div img {
+    width: 80%;
+}
+
+.navbar ul li {
+    font-size: 18px;
+}
+
+.navbar ul li a {
+    padding: 30px;
+    
+}
+
+.name p{
+    resize:horizontal;
+    
+}
+
+.container1 {
+    margin-bottom: 80px;
+}
